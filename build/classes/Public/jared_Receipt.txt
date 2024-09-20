@@ -1,0 +1,9 @@
+Customer Name=jared
+Customer mobile number=2589631470
+movie Date=27-11-2022
+movie time=17:00
+movie name=Life of Pie
+Number of Adult Tickets=1
+Number of Adult Tickets=0
+Number of Adult Tickets=3
+amount paid=21

@@ -1,0 +1,9 @@
+Customer Name=Shawn
+Customer mobile number=2589631470
+movie Date=27-11-2022
+movie time=19:00
+movie name=The Secret Life of Pets
+Number of Adult Tickets=4
+Number of Adult Tickets=3
+Number of Adult Tickets=1
+amount paid=67

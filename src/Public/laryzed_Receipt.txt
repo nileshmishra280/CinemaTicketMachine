@@ -1,0 +1,9 @@
+Customer Name=laryzed
+Customer mobile number=1234567890
+movie Date=27-11-2022
+movie time=21:00
+movie name=Big Bang theroy
+Number of Adult Tickets=1
+Number of Adult Tickets=2
+Number of Adult Tickets=5
+amount paid=29

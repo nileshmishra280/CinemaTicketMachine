@@ -1,0 +1,9 @@
+Customer Name=abc
+Customer mobile number=1234567890
+movie Date=27-11-2022
+movie time=14:00
+movie name=Kubo and the Two Strings
+Number of Adult Tickets=0
+Number of Adult Tickets=0
+Number of Adult Tickets=7
+amount paid=21
